@@ -17,8 +17,8 @@ It’s a small end-to-end pipeline that shows database usage with binary data.
 ```
 .
 ├── db.py             # Database connection + GridFS setup
-├── store_utils.py    # Logic to extract frames and store them in MongoDB
-├── fetch_utils.py    # Logic to fetch frames from MongoDB and dump into folder
+├── videoUtils.py    # Logic to extract frames and store them in MongoDB
+├── fetchFrames.py    # Logic to fetch frames from MongoDB and dump into folder
 ├── requirements.txt  # Python dependencies
 └── README.md
 ```
@@ -110,4 +110,4 @@ Saved frame_60.jpg to frames_out
 
 ---
 
-👨‍💻 Built as a demo project by **[Chaitanya Nirfarake]**
+👨‍💻 Built as a demo project by **Chaitanya Nirfarake**
