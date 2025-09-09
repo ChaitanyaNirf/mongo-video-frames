@@ -1,0 +1,9 @@
+# Ignore env files
+.env
+
+__pycache__/
+
+# ideally should comment these out but I want to keep it as a sample input output
+# videos/ 
+# frames_out/
+*.pyc
