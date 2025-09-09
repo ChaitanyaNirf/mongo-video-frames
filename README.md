@@ -29,8 +29,7 @@ It’s a small end-to-end pipeline that shows database usage with binary data.
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/ChaitanyaNirf/mongo-video-frames
 ```
 
 ### 2. Create virtual environment (optional but recommended)
